@@ -1,0 +1,5 @@
+{
+  "name": "IndusControl - Gestão Industrial",
+  "description": "Sistema completo de controle administrativo para fábricas e indústrias, integrando portaria, manutenção, RH, financeiro (PDEX) e TI.",
+  "requestFramePermissions": []
+}
